@@ -1,0 +1,17 @@
+div{
+    background-color: aqua;
+    text-align: center;
+    font-size: 120%;
+    color: hotpink;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 72%;
+  }
+html{
+    background-color: skyblue;
+    color: hotpink;
+    text-align: center;
+}
